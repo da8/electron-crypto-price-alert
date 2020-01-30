@@ -1,0 +1,23 @@
+{
+  "name": "electron-crypto-price-alert",
+  "version": "1.0.0",
+  "description": "Pet project created based on the youtube tutorial https://www.youtube.com/watch?v=2RxHQoiDctI&amp;t=239s for learning how to build electron applications.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/da8/electron-crypto-price-alert.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/da8/electron-crypto-price-alert/issues"
+  },
+  "homepage": "https://github.com/da8/electron-crypto-price-alert#readme",
+  "devDependencies": {
+    "electron": "7.1.11"
+  }
+}
