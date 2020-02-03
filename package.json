@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/da8/electron-crypto-price-alert#readme",
   "devDependencies": {
-    "electron": "7.1.11"
+    "electron": "7.1.11",
+    "electron-reload": "^1.5.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
   }
 }
